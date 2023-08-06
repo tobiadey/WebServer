@@ -51,8 +51,6 @@ public class Webserver {
 
 }
 
-
-
     // Tested using Postman - GET request sent to http://localhost:8080
 
     // Improve and Expand:
